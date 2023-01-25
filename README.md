@@ -1,6 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello Word! </h1>
 
 
+![](https://visitor-badge.glitch.me/badge?page_id=dliocode)
 <p align="center">
 <a href="https://github.com/dliocode">
   <img src="https://github.com/dliocode/dliocode/blob/main/assets/github-contribution-grid-snake.svg"/>
